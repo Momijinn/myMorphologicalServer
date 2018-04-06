@@ -1,0 +1,2 @@
+# myMorphologicalServer
+形態素解析を行うAzureサーバー
